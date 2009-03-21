@@ -58,13 +58,15 @@ img {
 }
 .downloadoption {
     background: #eee;
+    padding-top: 10px;
 }
 .downloadoptionimage {
     float: left;
+    width: 110px;
     margin: 0 0 10px 10px;
 }
 .downloadoptiontext {
-    float: right;
+    padding-left: 130px;
 }
 .screenshotframe {
     text-align: center;
