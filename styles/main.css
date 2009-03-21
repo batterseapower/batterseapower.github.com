@@ -39,8 +39,7 @@ a {
     float: right;
 }
 pre {
-    background: #49637C;
-    color: #fff;
+    background: #F8F8F8; /* The same as the GitHub background color since I'm using their syntax.css */
     padding: 15px;
 }
 hr {
@@ -74,5 +73,5 @@ img {
     text-align: center; /* The screenshot and it's border should be in the center of the page */
 }
 .screenshot {
-    border: 10px solid #eee; /* Soft grey border */
+    border: 10px solid #F8F8F8; /* Soft grey border */
 }
