@@ -61,6 +61,10 @@ img {
 }
 .downloadoptionimage {
     float: left;
+    margin: 0 0 10px 10px;
+}
+.downloadoptiontext {
+    float: right;
 }
 .screenshotframe {
     text-align: center;
