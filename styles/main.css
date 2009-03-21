@@ -58,7 +58,7 @@ img {
 }
 .downloadoption {
     background: #eee;
-    padding-top: 10px 0 10px 0; /* Keep image and text away from top and bottom */
+    padding: 10px 0 10px 0; /* Keep image and text away from top and bottom */
     margin-bottom: 10px; /* Ensure there is some whitespace between options */
 }
 .downloadoptionimage {
