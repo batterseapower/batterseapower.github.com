@@ -1,6 +1,6 @@
 body {
     margin-top: 1.0em;
-    background-color: #ffffff;
+    background-color: #fff;
     font-family: "helvetica";
 }
 #container {
@@ -48,8 +48,23 @@ hr {
     width: 80%;
     border-bottom: 1px solid #aaa;
 }
+img {
+    border: 0px;
+}
 .footer {
     text-align: center;
     padding-top: 30px;
     font-style: italic;
+}
+.downloadoption {
+    background: #eee;
+}
+.downloadoptionimage {
+    float: left;
+}
+.screenshotframe {
+    text-align: center;
+}
+.screenshot {
+    border: 10px solid #eee;
 }
